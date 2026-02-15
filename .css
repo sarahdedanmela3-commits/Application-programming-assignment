@@ -1,0 +1,24 @@
+body{
+    font-family:Arial,sans-serif;
+    padding: 20px;
+}
+button{
+    padding:10px 15px;
+    cursor:pointer;
+    border:1px solid #AC9EF5;
+    background-color: #AC9EF5;
+    color: white;
+    border-radius: 4px;
+}
+button:hover {
+    background-color: #9283d0;
+}
+.post h2{
+    color:#333;
+    margin-top: 0;
+    font-size: 1.3em;
+}
+.post p{
+    color: #666;
+    line-height: 1.6;
+}
